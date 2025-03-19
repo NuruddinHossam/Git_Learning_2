@@ -11,6 +11,7 @@ For Extended Syntax
 | Header    | Title       |    
 | Paragraph | Text        |   
 
+
 | Name     | Birthday   | Age |
 | -------- | ---------- | --- |
 | Ace      | 02/07/2009 | 15  |
@@ -26,6 +27,7 @@ For Extended Syntax
 ?>
 ```
 
+
 # Footnote	
 Here's a sentence with a footnote. [^1]
 
@@ -33,29 +35,50 @@ Here's a sentence with a footnote. [^2]
 
 Here's a sentence with a footnote. [^3]
 
+
 [^1]: This is the footnote 1.
 [^2]: This is the footnote 2.
 [^3]: This is the footnote 3.
 
+
 # Heading ID
 ### hello world
 
+
+
+
+
+
+
+
+
+
 [Go to My Great Heading](#hello-world)
 
+
 # Definition List	
-$E=mc^2$
-: my new law
+<dl>
+  <dt>مصطلح 1</dt>
+  <dd>تعريف المصطلح 1</dd>
+  <dt>مصطلح 2</dt>
+  <dd>تعريف المصطلح 2</dd>
+</dl>
+
+
 
 # Task List	
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
 
+
 # Emoji
-(see also Copying and Pasting Emoji)	That is so funny! :joy:
+That is so funny! :joy:
+
 
 # Subscript
 $H_2O$
+
 
 # Superscript
 $E=mc^2$
