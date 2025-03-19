@@ -1,5 +1,5 @@
-# Markdown Course 
-Hello
+# Markdown Course
+hello world
 
 # Basic Syntax
 
@@ -7,23 +7,20 @@ Hello
 
 <!-- Heading -->
 # H1
-
 ## H2
-
 ### H3
-
 #### H4
-
 ##### H5
-
 ###### H6
 
 <!-- Strong (Bold) -->
 This is a **Strong**
+
 This is a __Strong__
 
 <!-- Italic  -->
 This is an *Italic*
+
 This is an _Italic_
 
 <!-- Strong & Italic -->
@@ -109,20 +106,19 @@ Here's a sentence with a footnote. [^3]
 
 <!-- Heading ID -->
 ### hello world
+
 /
+
 /
-//
+
 /
+
 /
-//
+
 /
+
 /
-/
-/
-/
-/
-/
-/
+
 [Go to My Great Heading](#hello-world)
 
 
@@ -136,22 +132,9 @@ Here's a sentence with a footnote. [^3]
 That is so funny! :joy:
 
 
-<!-- Subscript
+<!-- Subscript -->
 $H_2O$
 
 
 <!--Superscript-->
 $E=mc^2$
-
-
-
-
-
-
-
-
-
-
-
-
-
