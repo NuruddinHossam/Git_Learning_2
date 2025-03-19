@@ -32,10 +32,17 @@ For Learn Git with Ghareeb Al-shekh <br><br>
 # Footnote	
 
 Here's a sentence with a footnote. [^1]
-
+Here's a sentence with a footnote. [^2]
+Here's a sentence with a footnote. [^3]
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 [^1]: This is the footnote 1.
-[^1]: This is the footnote 2.
-[^1]: This is the footnote 3.
+[^2]: This is the footnote 2.
+[^3]: This is the footnote 3.
 
 
 
