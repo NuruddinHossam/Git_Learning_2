@@ -1,5 +1,5 @@
-# Git_Learning_2
-For Learn Git with Ghareeb Al-shekh <br><br>
+# Markdown Course
+For Extended Syntax <br><br>
 
 # Images
 
@@ -46,7 +46,7 @@ Here's a sentence with a footnote. [^3]
 ### My Great Heading #my-great-heading
 
 # Definition List	
-E=mc^2
+E=mc<sup>2
 : my new law
 
 # Task List	
@@ -58,9 +58,11 @@ E=mc^2
 (see also Copying and Pasting Emoji)	That is so funny! :joy:
 
 # Subscript
-H~2~O
+H<sub>2</sub>O
+
 
 # Superscript
-X^2^
+X<sup>2</sup>
+$E=mc^2$
 
 
