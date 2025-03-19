@@ -43,27 +43,7 @@ Here's a sentence with a footnote. [^3]
 
 # Heading ID
 ### hello world
-
-
-
-
-
-
-
-
-
-
 [Go to My Great Heading](#hello-world)
-
-
-# Definition List	
-<dl>
-  <dt>مصطلح 1</dt>
-  <dd>تعريف المصطلح 1</dd>
-  <dt>مصطلح 2</dt>
-  <dd>تعريف المصطلح 2</dd>
-</dl>
-
 
 
 # Task List	
