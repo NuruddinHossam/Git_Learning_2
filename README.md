@@ -13,9 +13,15 @@ For Learn Git with Ghareeb Al-shekh <br><br>
 | Header    | Title       |    
 | Paragraph | Text        |   
 
+| Name     | Birthday   | Age |
+| -------- | ---------- | --- |
+| Nuruddin | 02/07/2009 | 15  |
+| Mary     | 25/08/1985 | 39  |
+
+
 # Block Of Code 
 
-```php
+```
 <?php 
 	
 	echo("Hello");
@@ -23,14 +29,8 @@ For Learn Git with Ghareeb Al-shekh <br><br>
 ?>
 ```
 
+# Footnote	
 
-# Table 
+Here's a sentence with a footnote. [^1]
 
-| Name     | Birthday   | Age |
-| -------- | ---------- | --- |
-| Nuruddin | 02/07/2009 | 15  |
-| Mary     | 25/08/1985 | 39  |
-
-# Math 
-$2x.2y=0$
-
+[^1]: This is the footnote.
