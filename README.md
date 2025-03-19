@@ -39,14 +39,14 @@ Here's a sentence with a footnote. [^3]
 [^3]: This is the footnote 3.
 
 # Heading ID
-### My Great Heading 
+### hello world
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-[Go to My Great Heading](#My-Great-Heading)
+[Go to My Great Heading](#hello-world)
 
 # Definition List	
 E=mc<sup>2
