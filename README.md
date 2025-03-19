@@ -8,10 +8,10 @@ For Learn Git with Ghareeb Al-shekh <br><br>
 
 # Table 
 
-| Syntax    | Description |     |
-| --------- | ----------- | --- |
-| Header    | Title       |     |
-| Paragraph | Text        |     |
+| Syntax    | Description |     
+| --------- | ----------- | 
+| Header    | Title       |    
+| Paragraph | Text        |   
 
 # Block Of Code 
 
