@@ -44,6 +44,12 @@ Here's a sentence with a footnote. [^3]
 
 # Heading ID
 ### My Great Heading 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 [Go to My Great Heading](#my-great-heading)
 
 # Definition List	
@@ -66,6 +72,7 @@ H<sub>2</sub>O
 
 # Superscript
 X<sup>2</sup>
+<br>
 $E=mc^2$
 
 
