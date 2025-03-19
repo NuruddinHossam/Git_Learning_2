@@ -34,8 +34,8 @@ For Learn Git with Ghareeb Al-shekh <br><br>
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote 1.
-[^2]: This is the footnote 2.
-[^3]: This is the footnote 3.
+[^1]: This is the footnote 2.
+[^1]: This is the footnote 3.
 
 
 
