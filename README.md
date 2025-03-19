@@ -32,7 +32,9 @@ For Learn Git with Ghareeb Al-shekh <br><br>
 # Footnote	
 
 Here's a sentence with a footnote. [^1]
+<br>
 Here's a sentence with a footnote. [^2]
+<br>
 Here's a sentence with a footnote. [^3]
 <br>
 <br>
@@ -44,6 +46,26 @@ Here's a sentence with a footnote. [^3]
 [^2]: This is the footnote 2.
 [^3]: This is the footnote 3.
 
+# Heading ID
+### My Great Heading {#custom-id}
 
+# Definition List	
+term
+: definition
+
+
+# Task List	
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+# Emoji
+(see also Copying and Pasting Emoji)	That is so funny! :joy:
+
+# Subscript
+H~2~O
+
+# Superscript
+X^2^
 
 
