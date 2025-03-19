@@ -63,6 +63,8 @@ H<sub>2</sub>O
 
 # Superscript
 X<sup>2</sup>
-$E=mc^2$
+
+# Sup & Sub
+$E=mc^2, I¬2¬$
 
 
