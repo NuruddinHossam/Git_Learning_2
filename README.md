@@ -46,7 +46,7 @@ Here's a sentence with a footnote. [^3]
 <br>
 <br>
 <br>
-[Go to My Great Heading](#my-great-heading)
+[Go to My Great Heading](#My-Great-Heading)
 
 # Definition List	
 E=mc<sup>2
