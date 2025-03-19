@@ -1,5 +1,5 @@
 # Markdown Course
-For Extended Syntax <br><br>
+For Extended Syntax 
 
 # Images
 ![Photo](https://www.guillenphoto.com/data/blog/2016/001-chronique-pourquoi-faire-de-la-photo-I/images/amar-guillen-photographiing-death-valley.jpg)
@@ -28,11 +28,10 @@ For Extended Syntax <br><br>
 
 # Footnote	
 Here's a sentence with a footnote. [^1]
-<br>
+
 Here's a sentence with a footnote. [^2]
-<br>
+
 Here's a sentence with a footnote. [^3]
-<br>
 
 [^1]: This is the footnote 1.
 [^2]: This is the footnote 2.
@@ -40,16 +39,11 @@ Here's a sentence with a footnote. [^3]
 
 # Heading ID
 ### hello world
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 [Go to My Great Heading](#hello-world)
 
 # Definition List	
-E=mc<sup>2
+$E=mc^2$
 : my new law
 
 # Task List	
@@ -61,13 +55,9 @@ E=mc<sup>2
 (see also Copying and Pasting Emoji)	That is so funny! :joy:
 
 # Subscript
-H<sub>2</sub>O
-<br>
 $H_2O$
 
 # Superscript
-X<sup>2</sup>
-<br>
 $E=mc^2$
 
 
