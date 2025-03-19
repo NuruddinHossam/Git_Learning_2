@@ -15,7 +15,7 @@ For Learn Git with Ghareeb Al-shekh <br><br>
 
 | Name     | Birthday   | Age |
 | -------- | ---------- | --- |
-| Nuruddin | 02/07/2009 | 15  |
+| Ace      | 02/07/2009 | 15  |
 | Mary     | 25/08/1985 | 39  |
 
 
@@ -37,22 +37,17 @@ Here's a sentence with a footnote. [^2]
 <br>
 Here's a sentence with a footnote. [^3]
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 [^1]: This is the footnote 1.
 [^2]: This is the footnote 2.
 [^3]: This is the footnote 3.
 
 # Heading ID
-### My Great Heading {#custom-id}
+### My Great Heading #my-great-heading
 
 # Definition List	
-term
-: definition
-
+E=mc^2
+: my new law
 
 # Task List	
 - [x] Write the press release
