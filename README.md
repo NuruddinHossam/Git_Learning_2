@@ -43,16 +43,19 @@ Here's a sentence with a footnote. [^3]
 [^3]: This is the footnote 3.
 
 # Heading ID
-### My Great Heading #my-great-heading
+### My Great Heading 
+[Go to My Great Heading](#my-great-heading)
 
 # Definition List	
 E=mc<sup>2
 : my new law
 
+
 # Task List	
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
 
 # Emoji
 (see also Copying and Pasting Emoji)	That is so funny! :joy:
@@ -63,8 +66,6 @@ H<sub>2</sub>O
 
 # Superscript
 X<sup>2</sup>
-
-# Sup & Sub
-$E=mc^2, I~2~$
+$E=mc^2$
 
 
