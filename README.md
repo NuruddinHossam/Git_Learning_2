@@ -1,5 +1,36 @@
 # Git_Learning_2
 For Learn Git with Ghareeb Al-shekh <br><br>
 
-> [!Lol] Title
-> Contents
+# Images
+
+![Photo](https://www.guillenphoto.com/data/blog/2016/001-chronique-pourquoi-faire-de-la-photo-I/images/amar-guillen-photographiing-death-valley.jpg)
+
+
+# Table 
+
+| Syntax    | Description |     |
+| --------- | ----------- | --- |
+| Header    | Title       |     |
+| Paragraph | Text        |     |
+
+# Block Of Code 
+
+```php
+<?php 
+	
+	echo("Hello");
+	
+?>
+```
+
+
+# Table 
+
+| Name     | Birthday   | Age |
+| -------- | ---------- | --- |
+| Nuruddin | 02/07/2009 | 15  |
+| Mary     | 25/08/1985 | 39  |
+
+# Math 
+$2x.2y=0$
+
