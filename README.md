@@ -138,3 +138,9 @@ $H_2O$
 
 <!--Superscript-->
 $E=mc^2$
+
+<!--Definition Term-->
+
+Nuruddin
+:a human
+
