@@ -1,7 +1,6 @@
 # Markdown Course
-hello world
+hello, these's course is made by Nur
 
-# Basic Syntax
 
 <!-- Comment -->
 
@@ -13,35 +12,52 @@ hello world
 ##### H5
 ###### H6
 
-<!-- Strong (Bold) -->
-This is a **Strong**
-
-This is a __Strong__
+<!--  How to make a line? -->
+___
+---
 
 <!-- Italic  -->
 This is an *Italic*
 
 This is an _Italic_
 
+<!-- Strong (Bold) -->
+This is a **Strong**
+
+This is a __Strong__
+
 <!-- Strong & Italic -->
 This are ***Strong and Italic***
 
 <!-- Strikethrough -->
-
 ~~Hello World~~
 
 <!-- Highlight -->
-
-==Hello World==
+<mark>Highlighted</mark>
 
 <!-- Line of  Code -->
 `Hello World`
 
-<!-- Line of  Math -->
+<!-- Block Of Code -->
+```php
+
+	<?php 
+		echo("Hello");
+	?>
+
+```
+
+<!-- Line of Eqoations -->
 $2x.2y=0$
 
-<!--  UL & OL -->
+<!-- Subscript -->
+$H_2O$
 
+
+<!--Superscript-->
+$E=mc^2$
+
+<!--  Ordering -->
 - Hello World
 - Hello
 	- Hi
@@ -55,14 +71,8 @@ $2x.2y=0$
 <!-- Quote -->
 > Hello World
 
-<!--  How to make a line? -->
-___
-- - -
-
 <!--  Link  -->
 [My Linkedin Page](https://www.linkedin.com/in/nuruddin-hossam-047912317/)
-
-# Extended Syntax
 
 <!-- Images -->
 ![Photo](https://www.guillenphoto.com/data/blog/2016/001-chronique-pourquoi-faire-de-la-photo-I/images/amar-guillen-photographiing-death-valley.jpg)
@@ -80,47 +90,20 @@ ___
 | Ace      | 02/07/2009 | 15  |
 | Mary     | 25/08/1985 | 39  |
 
-
-<!-- Block Of Code -->
-```php
-<?php 
-	
-	echo("Hello");
-	
-?>
-```
-
-
 <!-- Footnote -->
 Here's a sentence with a footnote. [^1]
+[^1]: This is the footnote 1.
 
 Here's a sentence with a footnote. [^2]
+[^2]: This is the footnote 2.
 
 Here's a sentence with a footnote. [^3]
-
-
-[^1]: This is the footnote 1.
-[^2]: This is the footnote 2.
 [^3]: This is the footnote 3.
 
-
 <!-- Heading ID -->
-### hello world
 
-/
-
-/
-
-/
-
-/
-
-/
-
-/
-
-[Go to My Great Heading](#hello-world)
-[Test Opration](#h1)
+[Go to My Great Heading](#h1)
+<!-- In Obsidian: [[#hello world]] -->
 
 
 <!-- Task List	-->
@@ -131,12 +114,3 @@ Here's a sentence with a footnote. [^3]
 
 <!-- Emoji -->
 That is so funny! :joy:
-
-
-<!-- Subscript -->
-$H_2O$
-
-
-<!--Superscript-->
-$E=mc^2$
-
